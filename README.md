@@ -1,2 +1,2 @@
-# outlook
+# Outlook
 Managing outlook from python. 
